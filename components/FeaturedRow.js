@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity, ScrollView } from 'react-native'
+import { View, Text, TouchableOpacity, ScrollView, Image } from 'react-native'
 import { themeColors } from '../theme'
 import RestaurantCard from './RestaurantCard'
 import { featured } from '../contents'

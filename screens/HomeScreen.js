@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar'
-import { View, Text, TextInput, ScrollView } from 'react-native'
+import { View, Text, TextInput, ScrollView, Image } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import * as Icon from 'react-native-feather'
 import { themeColors } from '../theme'
